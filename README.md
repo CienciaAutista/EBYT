@@ -3,7 +3,7 @@
 
 ## ¿Qué es el EByT?
 
-Este es un espacio para becaries posgrado y tesistas creado por becaries y tesistas de la Facultad de Ciencias Naturales y Museo de UNLP.
+#### Este es un espacio para becaries posgrado y tesistas creado por becaries y tesistas de la Facultad de Ciencias Naturales y Museo de UNLP.
 
 Este espacio surgió en el año 2020 como una convocatoria para tratar temas sobre las distintas  realidades que nuestra comunidad transita. En ese momento vivíamos una situación extrema llena de incertidumbre y desconcierto, hoy, pasado dos años desde el primer encuentro, nos sentimos con la necesidad de volver a juntarnos e invitarlos nuevamente.
 Luego de la primera emisión muchos temas relevantes pudieron ser tratados y comunicados a la comunidad académica,  obtuvimos algunas soluciones, pero muchas quedaron inconclusas.
